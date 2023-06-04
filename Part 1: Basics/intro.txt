@@ -1,0 +1,9 @@
+Part 1
+
+Topics
+0. Basics in Asymptotic notation
+1. Divide and conquer algorithms
+2. Master Method (algorithm analysis)
+3. Quicksort
+4. Linear-time selection
+5. Graphs and the contraction problem
